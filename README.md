@@ -8,7 +8,7 @@ The docs are a static site built with [VuePress](https://github.com/vuejs/vuepre
 
 ### Local Setup
 
-To get running locally..
+To get running locally...
 
 Clone the repo, then install dependencies:
 ```bash
