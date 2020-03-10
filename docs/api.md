@@ -3,7 +3,7 @@ sidebarDepth: 1
 ---
 # API
 
-This page documents the functions available on the `paysly` object returned by initializing the paysly npm module:
+This page documents the functions available on the `paysly` object returned by initializing the [paysly npm module](https://www.npmjs.com/package/paysly):
 
 ```js
 const Paysly = require('paysly');

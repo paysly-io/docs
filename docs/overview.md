@@ -1,6 +1,6 @@
 # Overview
 
-Paysly offers tooling to facilitate the acceptance of payments on your website. You can create payments by installing the paysly npm package and then calling one of its methods with the details of the payment you would like to collect. For details on how to accept payments, check out our guides to [one time](guides/one-time-charges.html) or [recurring](guides/recurring-charges.html) charges.
+Paysly offers tooling to facilitate the acceptance of payments on your website. You can create payments by installing the [paysly npm package](https://www.npmjs.com/package/paysly) and then calling one of its methods with the details of the payment you would like to collect. For details on how to accept payments, check out our guides to [one time](guides/one-time-charges.html) or [recurring](guides/recurring-charges.html) charges.
 
 Paysly is powered by stripe - so, in conjunction with paysly's frontend tooling, you have full access to the [stripe dashboard](https://dashboard.stripe.com/), as well as the stripe [APIs and SDKs](https://stripe.com/docs).
 

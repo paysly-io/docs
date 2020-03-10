@@ -13,7 +13,7 @@ PfEqYjvOLoa5+HOTAgMBAAE=
 -----END PUBLIC KEY-----
 ```
 
-This can also be retrieved by importing the paysly npm module's `publicKey` function:
+This can also be retrieved by importing the [paysly npm module's](https://www.npmjs.com/package/paysly) `publicKey` function:
 
 ```js
 import { publicKey } from 'paysly';

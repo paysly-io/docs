@@ -15,5 +15,3 @@ features:
   details: Our docs are completely open source (see below). If you think something could be clearer, feel free to open an issue or pull request at https://github.com/paysly-io/docs.
 footer: MIT Licensed | Copyright © 2020 Paysly
 ---
-
-[source](https://github.com/paysly-io/docs)
