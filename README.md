@@ -22,4 +22,4 @@ yarn serve
 
 ### Pull Requests
 
-Feel free to create PRs however you see fit. Eventually, we may set up templates, but for now, we will leave it at the requestors discretion.
+Feel free to create PRs however you see fit. Eventually, we may set up templates, but for now, we will leave it at the requestor's discretion.
