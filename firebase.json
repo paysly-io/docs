@@ -1,0 +1,22 @@
+{
+  "hosting": [
+    {
+      "site": "paysly-test-docs",
+      "public": "docs/.vuepress/dist",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    },
+    {
+      "site": "paysly-docs",
+      "public": "docs/.vuepress/dist",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    }
+  ]
+}
