@@ -125,10 +125,6 @@ To display an element on your site, set up the html containers:
 
 Style the element as you would like:
 ```css
-/**
- * The CSS shown here will not be introduced in the Quickstart guide, but shows
- * how you can use CSS to style your Element's container.
- */
 .StripeElement {
   box-sizing: border-box;
 
